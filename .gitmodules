@@ -1,0 +1,3 @@
+[submodule "ncnet"]
+	path = ncnet
+	url = https://github.com/ignacio-rocco/ncnet.git
